@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "classics-agent"
+version = "0.1.0"
+description = ""
+authors = ["Philip Youssef <philip.youssef@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+EbookLib = "^0.18"
+beautifulsoup4 = "^4.12"
+html2text = "^2020.1.16"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
