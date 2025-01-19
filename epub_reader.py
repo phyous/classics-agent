@@ -160,14 +160,38 @@ def read_epub(epub_path, num_lines=None, output_format='markdown', output_file=N
 
 def main():
     parser = argparse.ArgumentParser(description='Read and format EPUB files')
-    parser.add_argument('epub_file', help='Path to the EPUB file')
+    parser.add_argument('--batch', action='store_true', help='Process all EPUB files in data directory')
+    parser.add_argument('epub_file', nargs='?', help='Path to the EPUB file')
     parser.add_argument('-n', '--num-lines', type=int, help='Number of lines to output')
     parser.add_argument('-f', '--format', choices=['plain-text', 'markdown'], 
                         default='markdown', help='Output format (default: markdown)')
     parser.add_argument('-o', '--output-file', help='Output file path')
     
     args = parser.parse_args()
-    read_epub(args.epub_file, args.num_lines, args.format, args.output_file)
+    
+    if args.batch:
+        data_dir = 'data'
+        if not os.path.exists(data_dir):
+            print(f"Error: {data_dir} directory not found", file=sys.stderr)
+            sys.exit(1)
+            
+        files = [f for f in os.listdir(data_dir) if f.endswith('.epub')]
+        total_files = len(files)
+        print(f"Found {total_files} EPUB files to process")
+        
+        for i, epub_file in enumerate(files, 1):
+            input_path = os.path.join(data_dir, epub_file)
+            output_file = os.path.join(data_dir, epub_file.replace('.epub', '.md'))
+            print(f"\nProcessing file {i}/{total_files}: {epub_file}")
+            try:
+                read_epub(input_path, args.num_lines, args.format, output_file)
+            except Exception as e:
+                print(f"Error processing {epub_file}: {str(e)}", file=sys.stderr)
+                continue
+    else:
+        if not args.epub_file:
+            parser.error("epub_file is required when not using --batch mode")
+        read_epub(args.epub_file, args.num_lines, args.format, args.output_file)
 
 if __name__ == '__main__':
     main()

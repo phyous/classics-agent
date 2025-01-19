@@ -1,0 +1,3070 @@
+[
+  {
+    "volume": 0,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 8981347
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 3954783
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 1,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 2222890
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 1246442
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 2,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 1863328
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 1273482
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 3,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 3585136
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 2104304
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 4,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 1882321
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 1413998
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 5,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 4103679
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 1407889
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 6,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 3788828
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 2318742
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 7,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 3012687
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 1132901
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 8,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 3543091
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 1378017
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 9,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 3368842
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 1404897
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 10,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 2930695
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 1205417
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 11,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 3741001
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 1762454
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 12,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 3243167
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 1320077
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 13,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 5896410
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 1416446
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 14,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 3479595
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 1575267
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 15,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 9948785
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 1366647
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 16,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 2907864
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 2141251
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 17,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 4662037
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 1315077
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 18,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 10872193
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 1271941
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 19,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 8889521
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 1236629
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 20,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 7549053
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 1422197
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 21,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 4196419
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 1500723
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 22,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 2120520
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 1286547
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 23,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 4102463
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 2254963
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 24,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 4625820
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 2291841
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 25,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 5177236
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 1880736
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 26,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 8333215
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 1823993
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 27,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 6884196
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 1859343
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 28,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 5973946
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 1904317
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 29,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 6296879
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 3056801
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 30,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 11296848
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 6602516
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 31,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 3861779
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 1573180
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 32,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 5784759
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 1522798
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 33,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 5945791
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 2146020
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 34,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 1581252
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 1677067
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 35,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 2761655
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 2066770
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 36,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 4879299
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 2207864
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 37,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 5285444
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 1861393
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 38,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 10580000
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 2885554
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 39,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 10326020
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 1857901
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 40,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 7628651
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 1211928
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 41,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 2856792
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 1867194
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 42,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 9448657
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 1821150
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 43,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 5799368
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 1835844
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 44,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 5846759
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 1535545
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 45,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 14661604
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 2184650
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 46,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 12314982
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 2283668
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 47,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 10448337
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 1556015
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 48,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 10977722
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 1854794
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 49,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 16962225
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 1559384
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 50,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 7300169
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 1832179
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  },
+  {
+    "volume": 51,
+    "regular": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 5153154
+    },
+    "variant": {
+      "ocr": {
+        "total_words": 0,
+        "suspicious_words": 0,
+        "suspicious_word_ratio": 0,
+        "dictionary_ratio": 0,
+        "hyphenation_issues": 0,
+        "example_errors": []
+      },
+      "structure": {
+        "paragraphs": 0,
+        "sentences": 0,
+        "words": 0,
+        "has_toc": false,
+        "has_essays": false,
+        "unique_words": 0
+      },
+      "file_size": 1964669
+    },
+    "similarity": {
+      "window": {
+        "average": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "max": 100.0,
+        "q1": 100.0,
+        "q3": 100.0
+      },
+      "semantic": {
+        "average": 0.0,
+        "median": 0,
+        "min": 0,
+        "max": 0,
+        "q1": 0,
+        "q3": 0
+      }
+    }
+  }
+]
